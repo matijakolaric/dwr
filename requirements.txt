@@ -1,1 +1,3 @@
 guppy3
+jupyterlab
+names
